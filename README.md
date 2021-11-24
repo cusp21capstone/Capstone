@@ -10,3 +10,9 @@ The COVID-19 pandemic created devastating effects for small businesses, despite 
 (1) To identify factors affecting small, food-related retailer survivability with respect to socio-economic factors, retail characteristics, features of the built environment, and changes in nearby foot traffic. 
 
 (2) To determine how hyper-local patterns related to the presence of significant institutions and the location of public transportation could be used as further predictors of business survivability.  
+
+**Our Data:** 
+
+- SafeGraph Data (Jan 2019 to May 2021)
+- DETER Data (Jan 2021 to May 2021)
+- Other Data: transportation data including Subway Entrances and Bus Stop Shelters, Pluto data, Building Footprints, NYC Street Centerline, American Community Survey data
