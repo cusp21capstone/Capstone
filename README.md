@@ -18,5 +18,6 @@ The COVID-19 pandemic created devastating effects for small businesses, despite 
 - Other Data: transportation data including Subway Entrances and Bus Stop Shelters, Pluto data, Building Footprints, NYC Street Centerline, American Community Survey data
 
 
-Our Webpage:https://capstone1121.wixsite.com/my-site
-Feel free to contact us: capstone1121@gmail.com
+###
+
+Our Webpage: https://capstone1121.wixsite.com/my-site;  Any question please contact: capstone1121@gmail.com
