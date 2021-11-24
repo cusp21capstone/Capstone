@@ -1,4 +1,4 @@
-# Cusp Capstone Project
+# 2021 Cusp Capstone Project
 ## COVID-19 Closure Impacts on Food-related, Non-chain, Businesses in Selected New York City Communities
 
 **Project Description:** 
@@ -20,6 +20,6 @@ The COVID-19 pandemic created devastating effects for small businesses, despite 
 
 ###
 
-Our Webpage: https://capstone1121.wixsite.com/my-site;  
+Our Webpage: https://capstone1121.wixsite.com/capstone 
 ###
 Any question please contact: capstone1121@gmail.com
