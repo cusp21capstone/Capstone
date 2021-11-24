@@ -3,13 +3,13 @@
 
 **Project Description:** 
 
-The COVID-19 pandemic created devastating effects for small businesses, despite large, targeted relief programs. This project aimed to identify small business resiliency factors to inform both urban planners and business owners. To do this, we use three modeling approaches to determine which socio-economic, spatial, business characteristics, and nearby foot traffic features were associated with significant decreases in business closures. This was done for 2186 food related businesses in eight zip codes in New York City using the COVID-19 PAUSE order as a stressor to predict business closures between March 2020 and May 31st, 2021. Openly available footfall data from cell phone signals were used to identify small businesses, their type, open and closure status, and monthly customer visits. Supplementary analysis was done with data from path tracking of 2215 individuals leaving eight healthcare facilities. We found that greater decreases in visits, lower commercial diversity, and less proximity to subway stops were related to a high risk of business closures. In a supplementary analysis using path data, we found that businesses between healthcare facilities and subway stops appeared less likely to close than others.
+The COVID-19 pandemic created devastating effects for small businesses, despite large, targeted relief programs. As such, this project uses the Spring 2020 New York State COVID-19 PAUSE order as a stressor for business closure to identify small business resiliency factors to inform both urban planners and business owners. To do this, three modeling approaches were tested to identify socio-economic, spatial, and business characteristics associated with business closures. This was done for 2,186 food related retail businesses in eight zip codes in New York City. Footfall data from cell phone signals were used to identify small businesses, their type, operational status, and monthly customer visits. Supplementary analysis was done with data from path tracking of 2,215 individuals leaving eight healthcare facilities. Our three methods allowed us to predict the accuracy of business closures at rates between 86% and 95%. Lower commercial diversity and larger distances to subway stops correlated with a higher risk of business closures. Using path data, we found that businesses between healthcare facilities and subway stops appeared less likely to close than others. These findings show the value of diverse commercial development near transit areas.
 
 **Our Goals:** 
 
 (1) To identify factors affecting small, food-related retailer survivability with respect to socio-economic factors, retail characteristics, features of the built environment, and changes in nearby foot traffic. 
 
-(2) To determine how hyper-local patterns related to the presence of significant institutions and the location of public transportation could be used as further predictors of business survivability.  
+(2) To determine how hyper-local patterns related to the presence of significant institutions could be used as further predictors of business survivability.  
 
 **Our Data:** 
 
@@ -20,4 +20,6 @@ The COVID-19 pandemic created devastating effects for small businesses, despite 
 
 ###
 
-Our Webpage: https://capstone1121.wixsite.com/my-site;  Any question please contact: capstone1121@gmail.com
+Our Webpage: https://capstone1121.wixsite.com/my-site;  
+###
+Any question please contact: capstone1121@gmail.com
