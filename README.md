@@ -1,6 +1,9 @@
 # 2021 Cusp Capstone Project
 ## COVID-19 Closure Impacts on Food-related, Non-chain, Businesses in Selected New York City Communities
 
+Ari Lewenstein, Shu Wang, Haochen Xing
+
+
 **Project Description:** 
 
 The COVID-19 pandemic created devastating effects for small businesses, despite large, targeted relief programs. As such, this project uses the Spring 2020 New York State COVID-19 PAUSE order as a stressor for business closure to identify small business resiliency factors to inform both urban planners and business owners. To do this, three modeling approaches were tested to identify socio-economic, spatial, and business characteristics associated with business closures. This was done for 2,186 food related retail businesses in eight zip codes in New York City. Footfall data from cell phone signals were used to identify small businesses, their type, operational status, and monthly customer visits. Supplementary analysis was done with data from path tracking of 2,215 individuals leaving eight healthcare facilities. Our three methods allowed us to predict the accuracy of business closures at rates between 86% and 95%. Lower commercial diversity and larger distances to subway stops correlated with a higher risk of business closures. Using path data, we found that businesses between healthcare facilities and subway stops appeared less likely to close than others. These findings show the value of diverse commercial development near transit areas.
